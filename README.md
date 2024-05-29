@@ -165,7 +165,7 @@ public class Overflow {
 ### Salida
 ![Captura de pantalla (374)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/6f3ccc8e-502d-4196-b214-1b5e7ae937a9)
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%201/Overflow) 
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Overflow) 
 
 ********************************************************************************************************************************************
 
@@ -221,7 +221,7 @@ public class Redondeo {
 ### Salida
 ![Captura de pantalla (375)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/f554669d-c8f3-4c87-932a-f8e4a9af4533)
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%201/Redondeo)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Redondeo)
 
 ********************************************************************************************************************************************
 # Truncamiento.
@@ -284,7 +284,7 @@ public class Truncamiento {
 ### Salida
 ![Captura de pantalla (376)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/488313b6-a23e-4347-9aae-8abcdfb1cab3)
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%201/Truncamiento)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema1/Truncamiento)
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
@@ -418,7 +418,7 @@ public class Biseccion {
 ![Captura de pantalla (377)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/c239f15a-eaf3-4ef5-a441-d196be505e15)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%202/Bisecci%C3%B3n)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema2/M%C3%A9todo%20de%20bisecci%C3%B3n)
 ********************************************************************************************************************************************
 # Regla Falsa.
 ## Definición.
@@ -550,7 +550,7 @@ public class ReglaFalsa {
 ### Salida
 ![Captura de pantalla (378)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/e84fbc41-bc8b-4c7d-bb8a-9990e9016ffe)
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%202/Regla%20falsa)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema2/M%C3%A9todo%20de%20la%20falsa%20posici%C3%B3n)
 ********************************************************************************************************************************************
 # Secante.
 ## Definición.
@@ -657,7 +657,7 @@ public class Secante {
 ![Captura de pantalla (379)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/04d5ec24-efcc-4913-8f35-7a7886dc9790)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%202/Secante)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema2/M%C3%A9todo%20de%20la%20secante)
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
@@ -786,7 +786,7 @@ public class Gaussiana {
 ![Captura de pantalla (380)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/30aad72a-190a-40b5-b2bb-2829909e8409)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%203/Eliminaci%C3%B3n%20Gaussiana)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema3/Eliminaci%C3%B3n%20Gaussiana)
 ********************************************************************************************************************************************
 # Gauss-Jordan.
 ## Definición.
@@ -915,7 +915,7 @@ public class GaussJordan {
 ![Captura de pantalla (382)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/5c35c2f9-46ba-44e4-babb-a33336334423)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%203/Gauss-Jordan)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema3/M%C3%A9todo%20de%20Gauss-Jordan)
 ********************************************************************************************************************************************
 # Gauss-Seidel.
 ## Definición.
@@ -1053,7 +1053,7 @@ public class GaussSeidel {
 ### Salida
 ![Captura de pantalla (383)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/fa63c45a-a050-4428-8b8b-f8238243a155)
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%203/Gauss-Seidel)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema3/M%C3%A9todo%20de%20Gauss-Seidel)
 
 ********************************************************************************************************************************************
 # Jacobi.
@@ -1189,7 +1189,7 @@ public class Jacobi {
 ![Captura de pantalla (384)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/e916d544-d48f-4e5b-a3bb-603dde7007d1)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%203/Jacobi)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema3/M%C3%A9todo%20de%20Jacobi)
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
@@ -1280,7 +1280,7 @@ public class Simpson13_ {
 ![Captura de pantalla (385)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/b08d9fc5-924d-49c1-b0e5-e2cfc72f3a42)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%204/Simpson%201_3)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema4/MetodoReglaSimpson1_3)
 ********************************************************************************************************************************************
 # Simpson 3/8.
 ## Definición.
@@ -1373,7 +1373,7 @@ public static void main(String[] args) {
 ![Captura de pantalla (386)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/cc5cdae2-1310-4aa2-9e61-38e6c7ff94ee)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%204/Simpson%203_8)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema4/MetodoReglaSimpson3_8)
 ********************************************************************************************************************************************
 # Trapecio.
 ## Definición.
@@ -1426,7 +1426,7 @@ public static void main(String[] args) {
 ![Captura de pantalla (387)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/0af931b1-bfca-43c6-932c-f96704890ab8)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%204/Trapecio)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema4/MetodoTrapecio)
 
 ********************************************************************************************************************************************
 # Tema 5: Interpolación y Ajuste de Funciones
@@ -1492,7 +1492,7 @@ public class Interpolacion_cuadratica {
 ![331050435-913d39b9-aca9-455d-ac3e-59bd85932344](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/cb5e5c3c-6903-49c6-98e4-0916f55c8074)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%205/Interpolaci%C3%B3n%20cuadr%C3%A1tica)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema5/Interpolaci%C3%B3n_de_M%C3%ADnimos_Cuadrado)
 ********************************************************************************************************************************************
 # Interpolación Lineal.
 ## Definición.
@@ -1552,7 +1552,7 @@ public class InterpolacionLineal {
 ![331012519-d3901a4a-668d-4317-9815-c74ab3e87653](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/5a7b08ac-ccb0-48d7-afcf-e10a3660fdfb)
 
 ## Ejercicios
-[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%205/Interpolaci%C3%B3n%20lineal)
+[Enlace de ejercicios](https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema5/Interpolaci%C3%B3n_Lineal)
 ********************************************************************************************************************************************
 # Lagrange.
 ## Definición.
