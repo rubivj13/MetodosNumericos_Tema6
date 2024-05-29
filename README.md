@@ -10,7 +10,7 @@
                 <nav class="navegacion">
                     <ul class="Indice">
 
-                        <li> <a href="#TEMA 1"> TEMA 1. </a> <br> </li>
+<li> <a href="#TEMA 1"> TEMA 1. </a> <br> </li>
                             <ul class="subindice"> 
                                 <li> <a href="#Descripción del Problemario T1"> Descripción del Problemario. </a> <br> </li>
                                 <li> <a href="#Sobre la materia T1"> Sobre la materia. </a> <br> </li>
@@ -47,7 +47,7 @@
                       
                         <li> <a href="#TEMA 2"> TEMA 2. </a> <br> </li>
                             <ul class="subindice"> 
-                                <li> <a href="#Descripción del ProblemarioT2"> Descripción del Problemario. </a> <br> </li>
+  <li> <a href="#Descripción del ProblemarioT2"> Descripción del Problemario. </a> <br> </li>
                                 <li> <a href="#SOBRE LA MATERIA T2"> SOBRE LA MATERIA. </a> <br> </li>
                                     <ul class="subindice"> 
                                         <li> <a href="#Competencia de la Asignatura T2"> Competencia de la Asignatura. </a> </li>
@@ -67,7 +67,7 @@
 
                             <li> <a href="#TEMA 3"> TEMA 3. </a> <br> </li>
                                 <ul class="subindice"> 
-                                    <li> <a href="#Descripción del Problemario T3"> Descripción del Problemario. </a> <br> </li>
+ <li> <a href="#Descripción del Problemario T3"> Descripción del Problemario. </a> <br> </li>
                                     <li> <a href="#Sobre la materia T3"> Sobre la materia. </a> <br> </li>
                                         <ul class="subindice"> 
                                             <li> <a href="#Competencia de la Asignatura T3"> Competencia de la Asignatura. </a> </li>
@@ -110,7 +110,7 @@
 
                             <li> <a href="#TEMA 4"> TEMA 4. </a> <br> </li>
                               <ul class="subindice"> 
-                                  <li> <a href="#Descripción del Problemario T4"> Descripción del Problemario. </a> <br> </li>
+<li> <a href="#Descripción del Problemario T4"> Descripción del Problemario. </a> <br> </li>
                                   <li> <a href="#Sobre la materia T4"> Sobre la materia. </a> <br> </li>
                                       <ul class="subindice"> 
                                           <li> <a href="#Competencia de la Asignatura T4"> Competencia de la Asignatura. </a> </li>
@@ -154,7 +154,7 @@
 
                         <li> <a href="#TEMA 5"> TEMA 5. </a> <br> </li>
                             <ul class="subindice"> 
-                                <li> <a href="#Descripción del Problemario T5"> Descripción del Problemario. </a> <br> </li>
+   <li> <a href="#Descripción del Problemario T5"> Descripción del Problemario. </a> <br> </li>
                                 <li> <a href="#Sobre la materia T5"> Sobre la materia. </a> <br> </li>
                                     <ul class="subindice"> 
                                         <li> <a href="#Competencia de la Asignatura T5"> Competencia de la Asignatura. </a> </li>
