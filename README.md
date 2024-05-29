@@ -209,8 +209,48 @@
                             </ul>
 
 
+
+
+<li> <a href="#TEMA 6"> TEMA 6. </a> <br> </li>
+                            <ul class="subindice"> 
+   <li> <a href="#Descripción del Problemario T6"> Descripción del Problemario. </a> <br> </li>
+                                <li> <a href="#Sobre la materia T6"> Sobre la materia. </a> <br> </li>
+                                    <ul class="subindice"> 
+                                        <li> <a href="#Competencia de la Asignatura T6"> Competencia de la Asignatura. </a> </li>
+                                        <li> <a href="#Competencia del tema T6"> Competencia del tema. </a> </li>
+                                        <li> <a href="#Temario T6"> Temario. </a> </li>  
+                                    </ul>
+                              <li> <a href="#Métodos para la solución de ecuaciones diferenciales que se encuentran en nuestro repositorio"> Métodos para la solución de ecuaciones diferenciales que se encuentran en nuestro repositorio. </a> <br> </li>
+                                    <ul class="subindice"> 
+                                        <li> <a href="#Euler"> Euler. </a> </li>
+                                            <ul class="subindice"> 
+                                                <li> <a href="#DescripciónE"> Descripción. </a> </li>
+                                                <li> <a href="#AlgoritmoE"> Algoritmo. </a> </li> 
+                                                <li> <a href="#PseudocódigoE"> Pseudocódigo. </a> </li>
+                                                <li> <a href="#ImplementaciónE"> Implementación. </a> </li>  
+                                            </ul>
+                                        <li> <a href="#Runge-Kutta"> Runge-Kutta. </a> </li>
+                                            <ul class="subindice"> 
+                                                <li> <a href="#DescripciónRK"> Descripción. </a> </li>
+                                                <li> <a href="#AlgoritmoRK"> Algoritmo. </a> </li> 
+                                                <li> <a href="#PseudocódigoRK"> Pseudocódigo. </a> </li>
+                                                <li> <a href="#ImplementaciónRK"> Implementación. </a> </li>  
+                                            </ul>
+                                        <li> <a href="#Taylor"> Taylor. </a> </li>
+                                            <ul class="subindice"> 
+                                                <li> <a href="#DescripciónT"> Descripción. </a> </li>
+                                                <li> <a href="#AlgoritmoT"> Algoritmo. </a> </li> 
+                                                <li> <a href="#PseudocódigoT"> Pseudocódigo. </a> </li>
+                                                <li> <a href="#ImplementaciónT"> Implementación. </a> </li>  
+                                            </ul>
+                                    </ul>
+                            </ul>
+
+
+
+
                       
-     </ul>
+  </ul>
   </nav>
 </font> </header>
 
@@ -3084,3 +3124,399 @@ El **Método de regresión** es un método estadístico que permite examinar la 
 
 
 Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericosT5/tree/master/src/M%C3%A9todo_de_regresion"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericosT5/tree/master/src/M%C3%A9todo_de_regresion </font> </a>
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+<h1> <font color = "darkred" size="+5" font face = "cooper black"> <b> <i> <a name="TEMA 6"> TEMA 6 </a>  </i> </b> </font> </h1>
+
+# <h2 align = "center"> <font  font face = "bauhaus 93">  <a name="Descripción del Problemario T6"> Descripción del Problemario </a> </font> </h2>
+
+1. **Método de Euler**:
+   - Es el más básico y sencillo de los procedimientos usados para encontrar soluciones numéricas aproximadas a una ecuación diferencial ordinaria de primer orden.
+   - Este método consiste en estimar una solución numérica a la ecuación diferencial en el intervalo comprendido entre X0 y Xf.
+   - Con la condición inicial, entonces es posible también conocer la derivada al inicio: y’ (xo) = f (xo, yo).
+   - Se hace una predicción aproximada del valor de la función y (x) en el punto siguiente: y (x1) ≈ y1 y1 = yo + (x1– xo) f (xo, yo) = yo + h f (xo, yo).
+
+2. **Método de Runge-Kutta**:
+   - Los métodos de Runge-Kutta son un conjunto de métodos iterativos (implícitos y explícitos) para la aproximación de soluciones de ecuaciones diferenciales ordinarias.
+   - Este conjunto de métodos fue inicialmente desarrollado alrededor del año 1900 por los matemáticos alemanes C. Runge y M. W. Kutta.
+   - Lo que caracteriza a un método de Runge-Kutta es que el error tiene la forma Ei =Chk E i = C h k. Donde C es una constante real positiva, el número k es llamado orden del método.
+
+3. **Método de Taylor**:
+   - El método de la serie de Taylor es un método de aproximación de funciones matemáticas que utiliza una serie de términos conocidos para estimar el valor de una función en un punto dado.
+   - Este método se basa en la expansión de la función en una serie de términos de potencia de la variable independiente alrededor de un punto de referencia.
+   - La serie de Taylor de una función real o compleja infinitamente diferenciable en el entorno de un número real o complejo a es la siguiente serie de potencias.
+
+
+********************************************************************************************************************************************************************************************************************
+
+# <h2 align = "center"> <font  font face = "bauhaus 93"> <a name="Sobre la materia T6"> Sobre la materia </a> </font> </h2>
+
+<h3> <font font face = "forte"> <a name="Competencia de la Asignatura T6"> Competencia de la Asignatura </a> </h3>
+
+...
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h3> <font font face = "forte"> <a name="Competencia del tema T6"> Competencia del tema </a> </h3>
+
+...
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h3> <font font face = "forte"> <a name="Temario T6"> Temario  </a> </h3>
+
+...
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+# <h2 align = "center"> <font  font face = "bauhaus 93"> <a name="Métodos para la solución de ecuaciones diferenciales que se encuentran en nuestro repositorio"> Métodos para la solución de ecuaciones diferenciales que se encuentran en nuestro repositorio. </a> </font> </h2>
+
+
+# <h3 align = "center"> <font font face = "forte"> <a name="Euler"> 1. Euler </a> </h3>
+
+<h4> <font font face = "arial"> <a name="DescripciónE"> Descripción. </a> </h4>
+
+El **Método de Euler** es el más básico y sencillo de los procedimientos usados para encontrar soluciones numéricas aproximadas a una ecuación diferencial ordinaria de primer orden, siempre que se conozca su condición inicial. Este método consiste en estimar una solución numérica a la ecuación diferencial en el intervalo comprendido entre X0 y Xf. Con la condición inicial, entonces es posible también conocer la derivada al inicio: y’ (xo) = f (xo, yo)¹. Esta derivada representa la pendiente de la recta tangente a la curva de la función y (x) precisamente en el punto: Ao = (xo, yo). Entonces se hace una predicción aproximada del valor de la función y (x) en el punto siguiente: y (x1) ≈ y1 y1 = yo + (x1– xo) f (xo, yo) = yo + h f (xo, yo).
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="AlgoritmoE"> Algoritmo. </a> </h4>
+
+1. **Identificar la ecuación diferencial y la condición inicial**: La ecuación diferencial es de la forma y' = f(x, y) y la condición inicial es de la forma y(x0) = y0.
+
+2. **Determinar el intervalo de solución y el tamaño de paso**: El intervalo de solución es [x0, xf] y el tamaño de paso es h.
+
+3. **Inicializar las variables**: Las variables x y y se inicializan con los valores de la condición inicial x0 y y0.
+
+4. **Realizar el cálculo**: Para cada paso, se calcula el nuevo valor de y utilizando la fórmula y = y + h * f(x, y) y se actualiza el valor de x con x = x + h.
+
+5. **Repetir el cálculo hasta alcanzar el final del intervalo**: Se repite el paso 4 hasta que x sea igual a xf.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="PseudocódigoE"> Pseudocódigo. </a> </h4>
+
+    Función Método_Euler(f, x0, y0, xf, h):
+        x = x0
+        y = y0
+        Mientras x < xf:
+            y = y + h * f(x, y)
+            x = x + h
+        Devolver (x, y)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="ImplementaciónO"> Implementación. </a> </h4>
+
+<h5> <font font face = "arial"> <b> <i> Ejemplo en código. </i> </b> </h5>
+
+    package Tema6.Euler;
+    
+    public class Ejercicio2 {
+        // Definimos la ecuación diferencial dy/dx = f(x, y)
+        // En este ejemplo, vamos a usar dy/dx = x^2 + y
+        public static double f(double x, double y) {
+            return x * x + y;
+        }
+    
+        // Método de Euler
+        public static void metodoEuler(double x0, double y0, double h, int n) {
+            double x = x0;
+            double y = y0;
+    
+            System.out.printf("x0: %.4f, y0: %.4f%n", x, y);
+    
+            // Iteramos n veces para obtener las aproximaciones
+            for (int i = 0; i < n; i++) {
+                y = y + h * f(x, y);
+                x = x + h;
+    
+                System.out.printf("x%d: %.4f, y%d: %.4f%n", i + 1, x, i + 1, y);
+            }
+        }
+    
+        public static void main(String[] args) {
+            // Valores iniciales
+            double x0 = 0.0;
+            double y0 = 1.0;
+            // Tamaño del paso
+            double h = 0.1;
+            // Número de iteraciones
+            int n = 10;
+    
+            // Llamamos al método de Euler
+            metodoEuler(x0, y0, h, n);
+        }
+    }
+
+
+
+<h5> <font font face = "arial"> <b> <i> Ejecución del programa. </i> </b> </h5>
+
+![Captura de pantalla 2024-05-29 160345](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/488925e6-c1c5-49e6-91e9-ba4ddc50034c)
+
+
+
+
+
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema6/Euler"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema6/Euler </font> </a>
+
+
+
+
+
+
+
+
+
+# <h3 align = "center"> <font font face = "forte"> <a name="Runge-Kutta"> 2. Runge-Kutta </a> </h3>
+
+<h4> <font font face = "arial"> <a name="DescripciónRK"> Descripción. </a> </h4>
+
+Los **Métodos de Runge-Kutta** son un conjunto de métodos genéricos iterativos, explícitos e implícitos, de resolución numérica de ecuaciones diferenciales. Este conjunto de métodos fue inicialmente desarrollado alrededor del año 1900 por los matemáticos alemanes C. Runge y M. W. Kutta. Lo que caracteriza a un método de Runge-Kutta es que el error tiene la forma Ei =Chk E i = C h k. Donde C es una constante real positiva, el número k es llamado orden del método.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="AlgoritmoRK"> Algoritmo. </a> </h4>
+
+1. **Identificar la ecuación diferencial y la condición inicial**: La ecuación diferencial es de la forma y' = f(x, y) y la condición inicial es de la forma y(x0) = y0.
+
+2. **Determinar el intervalo de solución y el tamaño de paso**: El intervalo de solución es [x0, xf] y el tamaño de paso es h.
+
+3. **Inicializar las variables**: Las variables x y y se inicializan con los valores de la condición inicial x0 y y0.
+
+4. **Realizar el cálculo**: Para cada paso, se calcula el nuevo valor de y utilizando la fórmula y = y + h * f(x, y) y se actualiza el valor de x con x = x + h.
+
+5. **Repetir el cálculo hasta alcanzar el final del intervalo**: Se repite el paso 4 hasta que x sea igual a xf.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="PseudocódigoRK"> Pseudocódigo. </a> </h4>
+
+    Función Método_Runge_Kutta(f, x0, y0, xf, h):
+        x = x0
+        y = y0
+        Mientras x < xf:
+            k1 = h * f(x, y)
+            k2 = h * f(x + h/2, y + k1/2)
+            k3 = h * f(x + h/2, y + k2/2)
+            k4 = h * f(x + h, y + k3)
+            y = y + (k1 + 2*k2 + 2*k3 + k4) / 6
+            x = x + h
+        Devolver (x, y)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="ImplementaciónRK"> Implementación. </a> </h4>
+
+<h5> <font font face = "arial"> <b> <i> Ejemplo en código. </i> </b> </h5>
+
+    package Tema6.Runge-Kutta;
+    
+    public class Ejercicio3 {
+        // Definimos la ecuación diferencial dy/dx = f(x, y)
+        // En este ejemplo, vamos a usar dy/dx = x^2 + y
+        public static double f(double x, double y) {
+            return x * x + y;
+        }
+    
+        // Método de Runge-Kutta de cuarto orden
+        public static void metodoRungeKutta(double x0, double y0, double h, int n) {
+            double x = x0;
+            double y = y0;
+    
+            System.out.printf("x0: %.4f, y0: %.4f%n", x, y);
+    
+            // Iteramos n veces para obtener las aproximaciones
+            for (int i = 0; i < n; i++) {
+                double k1 = h * f(x, y);
+                double k2 = h * f(x + h / 2.0, y + k1 / 2.0);
+                double k3 = h * f(x + h / 2.0, y + k2 / 2.0);
+                double k4 = h * f(x + h, y + k3);
+    
+                y = y + (k1 + 2 * k2 + 2 * k3 + k4) / 6.0;
+                x = x + h;
+    
+                System.out.printf("x%d: %.4f, y%d: %.4f%n", i + 1, x, i + 1, y);
+            }
+        }
+    
+        public static void main(String[] args) {
+            // Valores iniciales
+            double x0 = 0.0;
+            double y0 = 1.0;
+            // Tamaño del paso
+            double h = 0.1;
+            // Número de iteraciones
+            int n = 10;
+    
+            // Llamamos al método de Runge-Kutta
+            metodoRungeKutta(x0, y0, h, n);
+        }
+    }
+
+
+
+<h5> <font font face = "arial"> <b> <i> Ejecución del programa. </i> </b> </h5>
+
+![Captura de pantalla 2024-05-29 161128](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/ecd41f5b-ca67-4afa-a0fd-663845d27507)
+
+
+
+
+
+
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema6/Runge-Kutta"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema6/Runge-Kutta </font> </a>
+
+
+
+
+
+
+
+
+# <h3 align = "center"> <font font face = "forte"> <a name="Taylor"> 3. Taylor </a> </h3>
+
+Por supuesto, aquí te presento la descripción, algoritmo y pseudocódigo del Método de Taylor:
+
+<h4> <font font face = "arial"> <a name="DescripciónT"> Descripción. </a> </h4>
+
+El **Método de Taylor** es un método de aproximación de funciones matemáticas que utiliza una serie de términos conocidos para estimar el valor de una función en un punto dado. Este método se basa en la expansión de la función en una serie de términos de potencia de la variable independiente alrededor de un punto de referencia. La serie de Taylor de una función real o compleja infinitamente diferenciable en el entorno de un número real o complejo a es la siguiente serie de potencias.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="AlgoritmoT"> Algoritmo. </a> </h4>
+
+1. **Identificar la ecuación diferencial y la condición inicial**: La ecuación diferencial es de la forma y' = f(x, y) y la condición inicial es de la forma y(x0) = y0.
+
+2. **Determinar el intervalo de solución y el tamaño de paso**: El intervalo de solución es [x0, xf] y el tamaño de paso es h.
+
+3. **Inicializar las variables**: Las variables x y y se inicializan con los valores de la condición inicial x0 y y0.
+
+4. **Realizar el cálculo**: Para cada paso, se calcula el nuevo valor de y utilizando la fórmula y = y + h * f(x, y) y se actualiza el valor de x con x = x + h.
+
+5. **Repetir el cálculo hasta alcanzar el final del intervalo**: Se repite el paso 4 hasta que x sea igual a xf.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="PseudocódigoT"> Pseudocódigo. </a> </h4>
+
+    Función Método_Taylor(f, x0, y0, xf, h):
+        x = x0
+        y = y0
+        Mientras x < xf:
+            y = y + h * f(x, y)
+            x = x + h
+        Devolver (x, y)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> <font font face = "arial"> <a name="ImplementaciónT"> Implementación. </a> </h4>
+
+<h5> <font font face = "arial"> <b> <i> Ejemplo en código. </i> </b> </h5>
+
+    package Tema6.Taylor;
+    
+    public class Ejercicio4 {
+        // Definimos la ecuación diferencial dy/dx = f(x, y)
+        // En este ejemplo, vamos a usar dy/dx = 2x + y
+        public static double f(double x, double y) {
+            return 2 * x + y;
+        }
+    
+        // Método de Taylor de segundo orden
+        public static void metodoTaylor(double x0, double y0, double h, int n) {
+            double x = x0;
+            double y = y0;
+    
+            System.out.printf("x0: %.4f, y0: %.4f%n", x, y);
+    
+            // Iteramos n veces para obtener las aproximaciones
+            for (int i = 0; i < n; i++) {
+                double y1 = y + h * f(x, y) + (h * h / 2) * (2 * f(x, y) + x);
+                y = y1;
+                x = x + h;
+    
+                System.out.printf("x%d: %.4f, y%d: %.4f%n", i + 1, x, i + 1, y);
+            }
+        }
+    
+        public static void main(String[] args) {
+            // Valores iniciales
+            double x0 = 0.0;
+            double y0 = 1.0;
+            // Tamaño del paso
+            double h = 0.1;
+            // Número de iteraciones
+            int n = 10;
+    
+            // Llamamos al método de Taylor
+            metodoTaylor(x0, y0, h, n);
+        }
+    
+    }
+
+
+
+<h5> <font font face = "arial"> <b> <i> Ejecución del programa. </i> </b> </h5>
+
+![Captura de pantalla 2024-05-29 162125](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/fe9090e4-7772-48cf-b786-b890ed084461)
+![Captura de pantalla 2024-05-29 162125](https://github.com/rubivj13/MetodosNumericos_Tema6/assets/147438464/fe9090e4-7772-48cf-b786-b890ed084461)
+
+
+
+
+
+
+Te invito a que puedas checar mis ejercicios para profundizar en la implementación: <a href="https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema6/Taylor"> <font font face = "arial"> https://github.com/rubivj13/MetodosNumericos_Tema6/tree/master/Tema6/Taylor </font> </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# <h3 align = "center"> <font font face = "forte"> <a name="Referencias"> 4. Referencias. </a> </h3>
+
+    C. Chapra, S. (2006). Métodos numéricos para ingenieros (Quinta ed.). Pablo E. Roig Vázquez.
+
+
+
+
+
+# <h3 align = "center"> <font font face = "forte">  Despedida </h3>
+
+Me despido con un cordial saludo. Si tienen alguna duda o sugerencia, contactar por redes sociales: facebook, instagram, etc.
+
